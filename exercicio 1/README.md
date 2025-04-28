@@ -1,3 +1,11 @@
+# Primeiro Exercicio - Curso de React JS
+
+1. Arquivo App.js alterado.
+2. Alteração nas cores dos elementos.
+3. Título da Aplicação alterada.
+
+-----------------------------------------------------
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
